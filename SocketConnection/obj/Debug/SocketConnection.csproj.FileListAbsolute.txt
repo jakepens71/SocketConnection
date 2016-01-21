@@ -1,0 +1,5 @@
+C:\Users\jshay\OneDrive\Development\C#\SocketConnection\SocketConnection\bin\Debug\SocketConnection.exe.config
+C:\Users\jshay\OneDrive\Development\C#\SocketConnection\SocketConnection\bin\Debug\SocketConnection.exe
+C:\Users\jshay\OneDrive\Development\C#\SocketConnection\SocketConnection\bin\Debug\SocketConnection.pdb
+C:\Users\jshay\OneDrive\Development\C#\SocketConnection\SocketConnection\obj\Debug\SocketConnection.exe
+C:\Users\jshay\OneDrive\Development\C#\SocketConnection\SocketConnection\obj\Debug\SocketConnection.pdb
